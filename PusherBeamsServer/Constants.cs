@@ -1,8 +1,6 @@
-using System.Text.RegularExpressions;
-
 namespace PusherBeamsServer;
 
-internal class Constants
+public class Constants
 {
     public const int USERS_STRING_MAX_LENGTH = 164;
     public const int INTEREST_STRING_MAX_LENGTH = 164;
